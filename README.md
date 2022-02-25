@@ -1,3 +1,7 @@
-# Coursera Course: Bootstrap4
+# Cousera course - Front-End Web UI Frameworks and Tools: Bootstrap 4
 
-This repo contains assignments excersices.
+## Asignments
+
+[Week2](https://github.com/ofmorenor/coursera-course-bootstrap/week2-assignment/index.html)
+
+theme: jekyll-theme-slate
