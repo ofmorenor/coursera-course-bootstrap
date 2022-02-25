@@ -2,6 +2,6 @@
 
 ## Asignments
 
-[Week2](https://github.com/ofmorenor/coursera-course-bootstrap/week2-assignment/index.html)
+[Week2](./week2-assignment/index.html)
 
 theme: jekyll-theme-slate
