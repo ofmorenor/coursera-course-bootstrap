@@ -3,6 +3,7 @@
 ## Asignments
 
 [Week2](./week2-assignment/index.html)
+[Week3](./week3-assignment/index.html)
 
 theme: jekyll-theme-slate
 
